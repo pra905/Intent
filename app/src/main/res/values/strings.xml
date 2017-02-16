@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="MapButton">Search In Maps</string>
+    <string name="MarketButton">Search In Market</string>
+    <string name="EmailButton">Send Email</string>
+    <string name="ImageButton">Send An Image</string>
+
+</resources>
